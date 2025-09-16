@@ -24,15 +24,16 @@
 ---
 
 ## 📌 Featured Projects  
+
 ### **CodeStride – AI-Powered Gamified Learning App**  
 An Android application for interactive, gamified programming learning using AI-generated roadmaps and quizzes.  
 **Tech:** Kotlin, Jetpack Compose, Firebase  
-[🔗 View on GitHub] https://github.com/sanjey-06/CodeStride  
+[🔗 View on GitHub](https://github.com/sanjey-06/CodeStride)  
 
 ### **Hotel Management Application**  
 Mobile application for hotel bookings, billing, and record management.  
-**Tech:** Kotlin,XML, Firebase
-[🔗 View on GitHub] https://github.com/sanjey-06/Hotel-Management-Application
+**Tech:** Kotlin, XML, Firebase  
+[🔗 View on GitHub](https://github.com/sanjey-06/Hotel-Management-Application)  
 
 ### **Meet OCR Project**  
 Python-based Optical Character Recognition (OCR) tool for extracting text from images.  
