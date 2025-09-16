@@ -34,15 +34,15 @@ Mobile application for hotel bookings, billing, and record management.
 **Tech:** Kotlin,XML, Firebase
 [🔗 View on GitHub] https://github.com/sanjey-06/Hotel-Management-Application
 
-### **Portfolio Website**  
-Responsive personal website showcasing projects and skills.  
-**Tech:** HTML, CSS, JavaScript, Bootstrap  
-[🔗 View on GitHub] https://github.com/sanjey-06/one-page-website-html-css-project
+### **Meet OCR Project**  
+Python-based Optical Character Recognition (OCR) tool for extracting text from images.  
+**Tech:** Python, OpenCV, Tesseract OCR  
+[🔗 View on GitHub](https://github.com/sanjey-06/meet-ocr)
 
 ---
 
 ## 📫 Connect with Me  
-[LinkedIn](www.linkedin.com/in/sanjey-thustu-sivakumar)
+[LinkedIn](https://www.linkedin.com/in/sanjey-thustu-sivakumar)
 
 ---
 ⭐ **Feel free to explore my repositories and reach out for collaboration!**
