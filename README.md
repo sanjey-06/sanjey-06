@@ -25,7 +25,7 @@
 
 ## 📌 Featured Projects  
 
-### **CodeStride – AI-Powered Gamified Learning App**  
+### **CodeStride AI – AI-Powered Gamified Learning App**  
 An Android application for interactive, gamified programming learning using AI-generated roadmaps and quizzes.  
 **Tech:** Kotlin, Jetpack Compose, Firebase  
 [🔗 View on GitHub](https://github.com/sanjey-06/CodeStride)  
